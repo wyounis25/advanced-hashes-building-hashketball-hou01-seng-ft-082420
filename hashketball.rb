@@ -2,7 +2,9 @@
 
 def game_hash
   {
-    home: "Brooklyn Nets",
+    home: {
+   
   }
+  
 
 
